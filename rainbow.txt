@@ -6,6 +6,7 @@ yellow
 purple
 indigo
 chocolate
+recycle
 unicorn
 blue
 orange
