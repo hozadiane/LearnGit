@@ -4,6 +4,7 @@ red
 green
 yellow
 purple
+indigo
 chocolate
 unicorn
 blue
